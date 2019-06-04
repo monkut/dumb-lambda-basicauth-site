@@ -1,3 +1,5 @@
 .env
 .ideas/
 site/
+zappa_settings.json
+.pytest_cache/

@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 flask = "*"
 flask-basicauth = "*"
+zappa = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"
